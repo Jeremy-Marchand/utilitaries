@@ -1,2 +1,3 @@
 def try_me():
-    return 'Hello, my name is Jérémy'
+    age = 34
+    return f'Hello, my name is Jérémy, I\'m {age}'
